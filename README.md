@@ -14,4 +14,3 @@ Framework: React
 Version Control: Git and GitHub
 IDE: VS Code
 
-T
